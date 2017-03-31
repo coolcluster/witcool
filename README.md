@@ -1,2 +1,3 @@
 # witcool
-witfriend
+wit friend
+welcome to wit frieds of cool cluster
